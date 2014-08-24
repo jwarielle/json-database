@@ -1,0 +1,26 @@
+{
+  "name": "json-database",
+  "version": "1.0.0",
+  "description": "simple-json-database",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jwarielle/json-database.git"
+  },
+  "author": "Arielle Wilson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jwarielle/json-database/issues"
+  },
+  "homepage": "https://github.com/jwarielle/json-database",
+  "dependencies": {
+    "express": "^4.8.5"
+  },
+  "devDependencies": {
+    "body-parser": "^1.6.5"
+  }
+}
